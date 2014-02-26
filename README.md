@@ -12,7 +12,10 @@ Part of the advanced Arduino Series.
   - controlling ESC brushlesss motors (flight control, UBERFAST RC CARS)
 - using the command line to program the arduino
   - option 1: ino
-  - option 2: avr-gcc library
+  - option 2: avr-gcc (Crosspack for Mac)[file:///usr/local/CrossPack-AVR/manual/index.html] 
+  - option 3: not through the arduino but using the specialized cable
+
+** We will have a generic Makefile and hello world in a Repository for easy downloading. **
 
 ### Supplementary units:
 
